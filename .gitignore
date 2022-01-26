@@ -11,3 +11,7 @@
 # produced html files
 *.html
 
+# Project files
+*.Rproj
+
+.Rproj.user

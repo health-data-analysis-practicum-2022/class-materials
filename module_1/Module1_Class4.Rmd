@@ -67,7 +67,7 @@ In this case when we talk about **risk**:
 
 * Risk of death for twins: 71/258 = 0.28
 * Risk of death for singletons: 526/9425 = 0056
-* Relative risk (risk ratio) of deaths for twins as compared to singletons: $$OR = \frac{risk \ for \ twins}{risk \ for \ singletons} = \frac{71/258}{526/9425} = 4.93$$
+* Relative risk (risk ratio) of deaths for twins as compared to singletons: $$RR = \frac{risk \ for \ twins}{risk \ for \ singletons} = \frac{71/258}{526/9425} = 4.93$$
 * The risk of death for twins is almost 5 times the risk of death for singletons.
 
 In this case when we talk about **odds**:

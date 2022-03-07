@@ -291,10 +291,10 @@ Here is link to the [doc](https://docs.google.com/document/d/1hzYiJUu3oL-vz-n4pL
 Feel free to start contributing your ideas; nothing here is set in stone, this is just a starting point that you will update in the coming weeks.
 
 <center>
-![](./module_2/data/Project1.png)
+![](data/Project1.png)
 </center>
 
 <center>
-![](./module_2/data/Project2.png)
+![](data/Project2.png)
 </center>
 

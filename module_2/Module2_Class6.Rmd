@@ -251,12 +251,11 @@ Shortly after we return from Spring Break, we will want you to have identified:
 
 It will be helpful if you spend some time thinking about this now! 
 
-**Note:** This is often an iterative process whether you decide on a question, look for data, and then realize you need to refine or modify your question based on available data.
+**Note:** This is often an iterative process where you decide on a question, look for data, and then realize you need to refine or modify your question based on available data.
 
 Here are some tips for **framing a research question in public health**:
 
-* Start with a *general* area of public health in which you have interest; then narrow to a *specific* question you'd like to answer.
-* It can be helpful to gram your question in terms of investigating a relationship between a specific outcome variable (like "disease status" from our Module 1) and one or more primary predictor variables ("smoking status" from our Module 1.)
+* Start with a *general* area of public health in which you have interest; then narrow to a *specific* frame your question in terms of investigating a relationship between a specific outcome variable (like "disease status" from our Module 1) and one or more primary predictor variables ("smoking status" from our Module 1.)
 * Later you will need to think about the possibility of effect modifiers and possible confounders, but for now just think about that primary relationship of interest.
 
 Here are some tips for **locating data to answer this question**:
